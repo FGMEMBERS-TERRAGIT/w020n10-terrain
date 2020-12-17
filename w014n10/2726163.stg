@@ -1,0 +1,4 @@
+OBJECT_BASE 2726163.btg
+OBJECT GUFA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -13.574606 10.346214 163.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -13.563936 10.354961 160.1 0.00

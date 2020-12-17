@@ -1,0 +1,5 @@
+OBJECT_BASE 2677146.btg
+OBJECT GOGS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -16.750704 12.398668 21.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -16.741544 12.388395 13.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -16.745438 12.394192 19.9 0.00
